@@ -1,0 +1,5 @@
+[
+"./src/assets/lib/jquery/jquery-3.4.1.js",
+"./src/assets/lib/animations/greensock/js/gsap.min.js",
+"./src/assets/js/script.js"
+]
